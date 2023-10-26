@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int main1_1() {
     // Пять координат X, Y
     float x1, y1;
     float x2, y2;
